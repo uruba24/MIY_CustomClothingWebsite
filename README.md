@@ -1,4 +1,4 @@
-# MIY-MAKE IT YOURSELF(A CUSTOM CLOTHING WEBSITE)
+# MIY-MAKE IT YOURSELF (A CUSTOM CLOTHING WEBSITE)
 
 ## Introduction
 In this Modern Ere, Ecommerce websites enable businesses to grow faster, more convenient
@@ -55,3 +55,22 @@ person can buy within their budgets.
 • Visual Studio Code
 • Django Framework(Python)
 • MySQL
+
+
+## Demo Images
+
+![image](https://user-images.githubusercontent.com/52291981/189725446-106fa258-1088-4957-a0db-85ee9259e7d0.png)
+![image](https://user-images.githubusercontent.com/52291981/189725540-d0cda436-40ff-4816-bfe5-43ac67eecef7.png)
+![image](https://user-images.githubusercontent.com/52291981/189728569-bbbbde0d-bc5c-4a22-96c8-faec47cead5e.png)
+![image](https://user-images.githubusercontent.com/52291981/189728662-ecc55066-6056-4dda-a375-79dbbca6dddc.png)
+![image](https://user-images.githubusercontent.com/52291981/189728732-2653740b-5b31-4e67-bb08-cc32e846a9fe.png)
+![image](https://user-images.githubusercontent.com/52291981/189728787-b814cb01-8b88-4484-b7b6-c37ca5c106d4.png)
+![image](https://user-images.githubusercontent.com/52291981/189728840-c1632c9a-2ae1-4b44-b966-b38822209e02.png)
+![image](https://user-images.githubusercontent.com/52291981/189728896-c0eb5332-d119-4613-86b7-97e56245d1b5.png)
+
+
+
+
+
+
+
