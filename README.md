@@ -1,3 +1,6 @@
+###### MIY-MAKE IT YOURSELF(A CUSTOM CLOTHING WEBSITE)
+
+## Introduction
 In this Modern Ere, Ecommerce websites enable businesses to grow faster, more convenient
 and less costly. Ecommerce websites are very convenient to purchase products and services
 online. The process is often very quick as the customers can place orders in a relatively
@@ -24,3 +27,31 @@ with the dress the user has designed through are recommendation system. They can
 set if they want to. To sum up in a nutshell, we have everything under one roof.
 Most importantly, MIY enable a business to keep consumers happy and constantly change to
 adapt to their strategies according to their lifestyle.
+
+
+## Objectives and Contributions
+1. Users can make their dress according to their specific need this is the best feature that are
+in the application.
+2. This project will provide a platform for making your own taste of dresses.
+3. Order will get delivered to door step.
+4. User can also make custom shirt within given budget which is the best thing that every
+person can buy within their budgets.
+5. User can also buy related accessories according to design.
+
+## Functional Requirements
+1. Dress Customization
+  • Event wise
+  • Seasons wise
+  • Budget Wise
+2. Add to Cart
+3. Checkout
+4. Make it a Set
+## Non-Functional Requirements
+• The system should show great performance.
+• The system should fulfill the reliability.
+• The system should be fully secure.
+
+## Software Platform
+• Visual Studio Code
+• Django Framework(Python)
+• MySQL
